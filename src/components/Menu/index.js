@@ -11,8 +11,8 @@ function Menu() {
       <Link to="/">
         <img className="Logo" src={Logo} alt="Logo Casflix" />
       </Link>
-      <Button as={Link} className="ButtonLink" to="/cadastro/video" alt="botão">
-        Novo vídeo
+      <Button as={Link} className="ButtonLink" to="/cadastro/video" alt="botÃ£o">
+        Novo vÃ­deo
       </Button>
     </nav>
   );
